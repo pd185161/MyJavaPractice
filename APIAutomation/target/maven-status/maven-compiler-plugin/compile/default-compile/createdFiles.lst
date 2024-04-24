@@ -1,0 +1,6 @@
+com\LMS\APIAutomation\GenericMethods.class
+com\LMS\APIAutomation\RequestPayload\MemberServiceRequestPayLoad.class
+com\LMS\APIAutomation\MemberService.class
+com\LMS\APIAutomation\Resources\ReadProperties.class
+com\LMS\APIAutomation\App.class
+com\LMS\APIAutomation\Testing.class

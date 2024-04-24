@@ -1,0 +1,13 @@
+{
+  "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+  "status": "unstable",
+  "tests": [
+    "comLMSAPIAutomationtestCasesRunnerTestCaseRunner_Commandlinetest"
+  ],
+  "total": 0,
+  "pass": 0,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1653887493426,
+  "endTime": 1653887493555
+}

@@ -1,0 +1,109 @@
+{
+  "reports": [
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Tue7Jun22_122643PM",
+      "startTime": 1654585003194
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Tue31May22_063610PM",
+      "startTime": 1654002370575
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_113018AM",
+      "startTime": 1653890418856
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_112710AM",
+      "startTime": 1653890230271
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_112135AM",
+      "startTime": 1653889895786
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_111458AM",
+      "startTime": 1653889498292
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_111313AM",
+      "startTime": 1653889393981
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_111150AM",
+      "startTime": 1653889310978
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_111058AM",
+      "startTime": 1653889258024
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_110805AM",
+      "startTime": 1653889085419
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_105122AM",
+      "startTime": 1653888082786
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_104938AM",
+      "startTime": 1653887978178
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_104606AM",
+      "startTime": 1653887766109
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_104444AM",
+      "startTime": 1653887684082
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_104246AM",
+      "startTime": 1653887566838
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_104133AM",
+      "startTime": 1653887493426
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_103932AM",
+      "startTime": 1653887372508
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Mon30May22_103618AM",
+      "startTime": 1653887178472
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Thu26May22_053210PM",
+      "startTime": 1653566530052
+    },
+    {
+      "name": "com.LMS.APIAutomation.testCasesRunner.TestCaseRunner",
+      "dir": "test-results/Thu26May22_051406PM",
+      "startTime": 1653565446254
+    },
+    {
+      "name": "Surefire suite",
+      "dir": "test-results/Thu26May22_045608PM",
+      "startTime": 1653564368058
+    }
+  ]
+}

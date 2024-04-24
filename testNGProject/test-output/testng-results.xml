@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-30T19:23:00 IST" name="Default suite" finished-at="2022-06-30T19:23:00 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2022-06-30T19:23:00 IST" name="Default test" finished-at="2022-06-30T19:23:00 IST" duration-ms="53">
+      <class name="testNGProject.DemoTest">
+        <test-method is-config="true" signature="Pretest()[pri:0, instance:testNGProject.DemoTest@29e495ff]" started-at="2022-06-30T19:23:00 IST" name="Pretest" finished-at="2022-06-30T19:23:00 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pretest -->
+        <test-method signature="PrintName()[pri:0, instance:testNGProject.DemoTest@29e495ff]" started-at="2022-06-30T19:23:00 IST" name="PrintName" finished-at="2022-06-30T19:23:00 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintName -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testNGProject.DemoTest@29e495ff]" started-at="2022-06-30T19:23:00 IST" name="AfterTest" finished-at="2022-06-30T19:23:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testNGProject.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

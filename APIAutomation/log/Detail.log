@@ -1,0 +1,43 @@
+2022-06-07 15:25:20,412 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-07 15:25:21,755 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:25:21,761 - API Automation -INFO - Recieved response 200
+2022-06-07 15:25:21,767 - API Automation -INFO - Node Value is : 7138A2E3-6435-49E7-87E8-7A86783F5B76
+2022-06-07 15:25:21,771 - API Automation -INFO - SessionId is created - SessionID : 7138A2E3-6435-49E7-87E8-7A86783F5B76
+2022-06-07 15:25:21,815 - API Automation -INFO - Card Validation - CardId : 1000897897
+2022-06-07 15:25:22,403 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:25:22,419 - API Automation -INFO - Recieved response 200
+2022-06-07 15:27:24,955 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-07 15:27:26,672 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:27:26,676 - API Automation -INFO - Recieved response 200
+2022-06-07 15:27:26,683 - API Automation -INFO - Node Value is : 798842E9-92C0-49B1-95A1-500670AA422D
+2022-06-07 15:27:26,686 - API Automation -INFO - SessionId is created - SessionID : 798842E9-92C0-49B1-95A1-500670AA422D
+2022-06-07 15:27:26,730 - API Automation -INFO - Card Validation - CardId : 1000897897
+2022-06-07 15:27:27,308 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:27:27,319 - API Automation -INFO - Recieved response 200
+2022-06-07 15:28:22,552 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-07 15:28:24,011 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:28:24,016 - API Automation -INFO - Recieved response 200
+2022-06-07 15:28:24,023 - API Automation -INFO - Node Value is : 78A2813E-3747-4B53-B444-BC668671BA34
+2022-06-07 15:28:24,025 - API Automation -INFO - SessionId is created - SessionID : 78A2813E-3747-4B53-B444-BC668671BA34
+2022-06-07 15:28:24,069 - API Automation -INFO - Card Validation - CardId : 1000897897
+2022-06-07 15:28:24,831 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:28:24,844 - API Automation -INFO - Recieved response 200
+2022-06-07 15:29:07,698 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-07 15:29:09,127 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:29:09,131 - API Automation -INFO - Recieved response 200
+2022-06-07 15:29:09,138 - API Automation -INFO - Node Value is : 9FAE22D1-9F0B-4F3B-AD9F-D30CE1342BF5
+2022-06-07 15:29:09,140 - API Automation -INFO - SessionId is created - SessionID : 9FAE22D1-9F0B-4F3B-AD9F-D30CE1342BF5
+2022-06-07 15:29:09,186 - API Automation -INFO - Card Validation - CardId : 1000897897
+2022-06-07 15:29:09,803 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 15:29:09,810 - API Automation -INFO - Recieved response 200
+2022-06-07 16:13:51,392 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-07 16:13:54,028 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 16:13:54,034 - API Automation -INFO - Recieved response 200
+2022-06-07 16:13:54,042 - API Automation -INFO - Node Value is : 42E20C6F-DA38-4008-99A0-3F583D00AB43
+2022-06-07 16:13:54,045 - API Automation -INFO - SessionId is created - SessionID : 42E20C6F-DA38-4008-99A0-3F583D00AB43
+2022-06-07 16:13:54,111 - API Automation -INFO - Card Validation - CardId : 1000897897
+2022-06-07 16:14:00,191 - API Automation -INFO - Login Request Sent to server 
+2022-06-07 16:14:00,200 - API Automation -INFO - Recieved response 200
+2022-06-30 20:25:55,708 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-30 20:33:05,675 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
+2022-06-30 20:33:56,315 - API Automation -INFO - Built Request Specification of Login with UserName HQL Password Abcd123
